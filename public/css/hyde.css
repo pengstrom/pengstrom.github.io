@@ -166,6 +166,14 @@ a.sidebar-nav-item:focus {
   }
 }
 
+.prevpost {
+  float: left;
+}
+
+.nextpost {
+  float: right;
+}
+
 
 
 /*
