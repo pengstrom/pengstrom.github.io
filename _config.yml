@@ -1,29 +1,28 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
 # Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:               Rationell
-tagline:             The rational blog
-url:                 http://pengstrom.github.io
-paginate:            1
-baseurl:             ""
+title:            Rationell
+tagline:          'My rational blog'
+description:      'The personal blog of Per Engström'
+url:              http://pengstrom.github.io
+baseurl:          /
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
 author:
-  name:              Per Engström
-  email:             per.olov.engstrom@gmail.com
+  name:           'Per Engström'
+
+paginate:         5
 
 # Custom vars
-version:             1.0.0
-github:              
-  repo:              https://github.com/pengstrom/pengstrom.github.io
+version:          1.0.0
+
+github:
+  repo:           https://github.com/pengstrom/pengstrom.github.io
+
+# Posts
+excerpt_separator: <!--jump-->

@@ -3,28 +3,8 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+*Welcome, internet citizen. You have stumbled upon my personal blog.*
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+My name is *Per Engström*, and I'm a web developer. I'm also a student of computer science and mathematics, a musician and a physics graduate. I'm currently employed at my *alma mater* Uppsala University as an amanuensis at the Department of Mathematics. Before that I was a professional burger-wrangler.
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+This blog runs on [Jekyll](www.jekyllrb.com) and [GitHup Pages](pages.github.com). I got a runing start using a modified version of the [Hyde theme](hyde.getpoole.com) for Jekyll. Instead of the default fonts, I use the *Vollkorn* font from [Google Fonts](https://www.google.com/fonts) in a justified style.
