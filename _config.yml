@@ -1,6 +1,5 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:        redcarpet
 
 # Permalinks
 permalink:        pretty
@@ -10,8 +9,8 @@ relative_permalinks: true
 title:            Rationell
 tagline:          'My rational blog'
 description:      'The personal blog of Per Engström'
-url:              http://pengstrom.github.io
-baseurl:          /
+url:              'http://pengstrom.github.io'
+baseurl:          '/'
 
 author:
   name:           'Per Engström'

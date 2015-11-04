@@ -99,6 +99,10 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+.lead {
+  text-align: left
+}
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
@@ -128,7 +132,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 40rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
