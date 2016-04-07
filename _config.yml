@@ -3,7 +3,7 @@ markdown:        redcarpet
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+relative_permalinks: false
 
 # Setup
 title:            Rationell
@@ -15,6 +15,7 @@ baseurl:          '/'
 author:
   name:           'Per Engström'
 
+gems: [jekyll-paginate]
 paginate:         5
 
 # Custom vars
